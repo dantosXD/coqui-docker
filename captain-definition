@@ -1,4 +1,4 @@
  {
   "schemaVersion": 2,
-  "dockerfilePath": "./coqui-tts/Dockerfile"
+  "templateId": "python-django/3.8"
  }
